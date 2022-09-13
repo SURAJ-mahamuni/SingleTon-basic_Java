@@ -3,10 +3,9 @@ public class Main {
 
         Car c1 = Car.getObject();
         System.out.println("BMW "+c1.accelerator());
-
         System.out.println("BMW "+c1.brake());
-
         System.out.println("BMW "+c1.clutch());
+        
         System.out.println();
 
         Car c2 = Car.getObject();
