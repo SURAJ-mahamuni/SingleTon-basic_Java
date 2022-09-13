@@ -1,6 +1,6 @@
 public class Car {
 
-    //declare car class to null
+    //declare car class object to null
     private static Car car = null;
 
     //making constructor private(non-parameterize constructor)
