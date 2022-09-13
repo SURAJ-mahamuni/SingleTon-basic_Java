@@ -1,2 +1,2 @@
-# SingleTon-basic_Java
-# OutPut-
+SingleTon-basic_Java
+## OutPut-
