@@ -3,7 +3,7 @@ public class Car {
     //declare car class to null
     private static Car car = null;
 
-    //making constructor private
+    //making constructor private(non-parameterize constructor)
     private Car (){
 
     }
